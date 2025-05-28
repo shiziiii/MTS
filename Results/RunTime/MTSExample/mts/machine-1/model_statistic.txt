@@ -1,1 +1,1 @@
-LightTS Model - Not trained yet
+Ensemble LightTS Model - Not trained yet

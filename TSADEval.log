@@ -855,3 +855,873 @@
 (2025-05-28 01:04:23,643) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-2 
 (2025-05-28 01:13:32,109) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-5 
 (2025-05-28 01:22:40,937) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 01:46:53,811) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 01:46:53,812) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 01:46:53,812) [INFO]: Run Experiments. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 01:46:53,812) [INFO]: Use Function Parameters.
+(2025-05-28 01:46:53,812) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 01:46:54,270) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 01:47:07,633) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 01:47:19,600) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 01:47:31,585) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 01:47:43,563) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 01:47:55,537) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 01:48:07,519) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 01:48:24,683) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 01:48:36,691) [INFO]: Register evaluations
+(2025-05-28 01:48:36,691) [INFO]: Perform evaluations. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 01:48:36,691) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 01:48:36,734) [INFO]:     [EnsembleMTSExample] Eval dataset machine-1 <<<
+(2025-05-28 01:48:36,735) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 01:48:37,672) [INFO]: Plotting. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 01:48:37,672) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 01:48:37,716) [INFO]:     [EnsembleMTSExample] Plot dataset machine-1 score only 
+(2025-05-28 01:51:35,846) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 01:51:35,847) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 01:51:35,847) [INFO]: Run Experiments. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 01:51:35,847) [INFO]: Use Function Parameters.
+(2025-05-28 01:51:35,847) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 01:51:36,303) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 01:52:00,952) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 01:52:24,067) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 01:52:47,184) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 01:53:10,321) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 01:53:33,337) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 01:53:56,353) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 02:04:06,119) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 02:04:06,120) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 02:04:06,120) [INFO]: Run Experiments. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 02:04:06,120) [INFO]: Use Function Parameters.
+(2025-05-28 02:04:06,120) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 02:04:06,552) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 02:04:53,702) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 02:04:53,703) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 02:04:53,703) [INFO]: Run Experiments. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 02:04:53,703) [INFO]: Use Function Parameters.
+(2025-05-28 02:04:53,703) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 02:04:54,136) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 02:13:52,406) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 02:13:52,407) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 02:13:52,407) [INFO]: Run Experiments. Method[ImprovedEnsembleMTS], Schema[mts].
+(2025-05-28 02:13:52,408) [INFO]: Use Function Parameters.
+(2025-05-28 02:13:52,408) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 02:13:52,839) [INFO]:     [ImprovedEnsembleMTS] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 02:14:17,669) [INFO]:     [ImprovedEnsembleMTS] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 02:14:41,045) [INFO]:     [ImprovedEnsembleMTS] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 02:15:04,411) [INFO]:     [ImprovedEnsembleMTS] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 02:15:27,604) [INFO]:     [ImprovedEnsembleMTS] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 02:15:50,930) [INFO]:     [ImprovedEnsembleMTS] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 02:16:14,306) [INFO]:     [ImprovedEnsembleMTS] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 02:17:25,374) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 02:17:25,375) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 02:17:25,375) [INFO]: Run Experiments. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 02:17:25,375) [INFO]: Use Function Parameters.
+(2025-05-28 02:17:25,375) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 02:17:25,827) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 02:17:50,354) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 02:18:13,382) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 02:18:36,378) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 02:18:59,382) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 02:19:22,438) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 02:19:45,506) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 02:26:50,821) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 02:26:50,822) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 02:26:50,822) [INFO]: Run Experiments. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 02:26:50,822) [INFO]: Use Function Parameters.
+(2025-05-28 02:26:50,823) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 02:26:51,299) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 02:27:29,482) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 02:27:29,483) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 02:27:29,483) [INFO]: Run Experiments. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 02:27:29,483) [INFO]: Use Function Parameters.
+(2025-05-28 02:27:29,483) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 02:27:29,940) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 02:28:10,591) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 02:28:10,592) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 02:28:10,592) [INFO]: Run Experiments. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 02:28:10,592) [INFO]: Use Function Parameters.
+(2025-05-28 02:28:10,592) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 02:28:11,043) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 02:33:49,316) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 02:33:49,317) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 02:33:49,317) [INFO]: Run Experiments. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 02:33:49,317) [INFO]: Use Function Parameters.
+(2025-05-28 02:33:49,317) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 02:33:49,771) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 02:36:03,240) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 02:38:15,279) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 02:40:25,584) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 02:42:36,089) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 02:44:48,419) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 02:47:00,922) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 02:50:42,905) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 02:52:37,239) [INFO]: Register evaluations
+(2025-05-28 02:52:37,239) [INFO]: Perform evaluations. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 02:52:37,239) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 02:52:37,284) [INFO]:     [EnsembleMTSExample] Eval dataset machine-1 <<<
+(2025-05-28 02:52:37,284) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 02:52:38,204) [INFO]: Plotting. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 02:52:38,204) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 02:52:38,245) [INFO]:     [EnsembleMTSExample] Plot dataset machine-1 score only 
+(2025-05-28 03:05:11,037) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 03:05:11,038) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 03:05:11,038) [INFO]: Run Experiments. Method[EnsembleMTSExample], Schema[mts].
+(2025-05-28 03:05:11,038) [INFO]: Use Function Parameters.
+(2025-05-28 03:05:11,038) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 03:05:11,499) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 03:05:24,847) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 03:05:36,790) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 03:05:48,742) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 03:06:00,716) [INFO]:     [EnsembleMTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 03:07:14,423) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 03:07:14,424) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 03:07:14,424) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 03:07:14,424) [INFO]: Use Function Parameters.
+(2025-05-28 03:07:14,424) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 03:07:14,877) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 03:07:31,406) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 03:07:46,583) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 03:08:01,742) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 03:08:16,906) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 03:08:32,098) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 03:08:47,244) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 03:09:08,816) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 03:09:23,984) [INFO]: Register evaluations
+(2025-05-28 03:09:23,984) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 03:09:23,984) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 03:09:24,025) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 03:09:24,026) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 03:09:24,960) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 03:09:24,960) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 03:09:25,003) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 03:22:18,919) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 03:22:18,920) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 03:22:18,920) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 03:22:18,920) [INFO]: Use Function Parameters.
+(2025-05-28 03:22:18,920) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 03:22:19,378) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 03:23:29,922) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 03:23:29,923) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 03:23:29,923) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 03:23:29,923) [INFO]: Use Function Parameters.
+(2025-05-28 03:23:29,923) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 03:23:30,377) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 03:26:21,056) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 03:26:21,057) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 03:26:21,057) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 03:26:21,057) [INFO]: Use Function Parameters.
+(2025-05-28 03:26:21,057) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 03:26:21,511) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 03:29:37,248) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 03:32:51,448) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 03:36:05,553) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 03:39:19,908) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 03:42:34,160) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 03:45:48,711) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 03:50:59,958) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 03:54:14,433) [INFO]: Register evaluations
+(2025-05-28 03:54:14,433) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 03:54:14,433) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 03:54:14,480) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 03:54:14,480) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 03:54:15,403) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 03:54:15,403) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 03:54:15,447) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 04:12:41,540) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 04:12:41,540) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 04:12:41,541) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 04:12:41,541) [INFO]: Use Function Parameters.
+(2025-05-28 04:12:41,541) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 04:12:41,993) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 04:14:39,759) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 04:16:35,908) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 04:18:31,715) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 04:20:27,731) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 04:22:23,434) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 04:24:19,308) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 04:27:18,799) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 04:29:14,464) [INFO]: Register evaluations
+(2025-05-28 04:29:14,465) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 04:29:14,465) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 04:29:14,511) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 04:29:14,511) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 04:29:15,437) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 04:29:15,437) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 04:29:15,481) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 04:57:15,258) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 04:57:15,259) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 04:57:15,259) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 04:57:15,259) [INFO]: Use Function Parameters.
+(2025-05-28 04:57:15,260) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 04:57:15,712) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 04:57:32,002) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 04:57:46,907) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 04:58:02,006) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 04:58:17,184) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 04:58:32,357) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 04:58:47,505) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 04:59:09,069) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 04:59:24,248) [INFO]: Register evaluations
+(2025-05-28 04:59:24,248) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 04:59:24,248) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 04:59:24,293) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 04:59:24,293) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 04:59:25,216) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 04:59:25,217) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 04:59:25,259) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 05:10:53,306) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 05:10:53,307) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 05:10:53,307) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 05:10:53,307) [INFO]: Use Function Parameters.
+(2025-05-28 05:10:53,307) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 05:10:53,762) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 05:11:12,642) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 05:11:29,906) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 05:11:47,193) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 05:12:04,463) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 05:12:21,726) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 05:12:39,004) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 05:13:03,569) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 05:13:20,878) [INFO]: Register evaluations
+(2025-05-28 05:13:20,878) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 05:13:20,878) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 05:13:20,923) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 05:13:20,923) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 05:13:21,847) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 05:13:21,847) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 05:13:21,889) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 05:17:13,231) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 05:17:13,232) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 05:17:13,232) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 05:17:13,232) [INFO]: Use Function Parameters.
+(2025-05-28 05:17:13,232) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 05:17:13,694) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 05:17:43,193) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 05:17:48,799) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 05:17:48,800) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 05:17:48,800) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 05:17:48,800) [INFO]: Use Function Parameters.
+(2025-05-28 05:17:48,800) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 05:17:49,258) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 05:18:18,630) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 05:18:46,702) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 05:19:14,615) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 05:19:42,622) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 05:20:10,624) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 05:20:38,607) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 05:21:18,015) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 05:21:46,049) [INFO]: Register evaluations
+(2025-05-28 05:21:46,049) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 05:21:46,049) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 05:21:46,092) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 05:21:46,092) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 05:21:47,018) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 05:21:47,018) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 05:21:47,061) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 07:26:10,080) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 07:26:10,081) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 07:26:10,081) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 07:26:10,081) [INFO]: Use Function Parameters.
+(2025-05-28 07:26:10,081) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:26:10,549) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 07:27:02,228) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 07:27:02,229) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 07:27:02,229) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 07:27:02,229) [INFO]: Use Function Parameters.
+(2025-05-28 07:27:02,229) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:27:02,732) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 07:27:25,738) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 07:27:47,214) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 07:28:08,910) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 07:28:30,638) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 07:28:52,341) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 07:29:14,071) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 07:29:43,928) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 07:30:05,709) [INFO]: Register evaluations
+(2025-05-28 07:30:05,709) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 07:30:05,710) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:30:05,761) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 07:30:05,761) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 07:30:06,536) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 07:30:06,536) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:30:06,583) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 07:31:50,388) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 07:31:50,389) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 07:31:50,389) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 07:31:50,389) [INFO]: Use Function Parameters.
+(2025-05-28 07:31:50,389) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:31:50,836) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 07:32:09,434) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 07:32:26,671) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 07:32:43,925) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 07:33:01,164) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 07:33:18,389) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 07:33:35,606) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 07:33:59,989) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 07:34:17,136) [INFO]: Register evaluations
+(2025-05-28 07:34:17,136) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 07:34:17,136) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:34:17,185) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 07:34:17,185) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 07:34:18,107) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 07:34:18,107) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:34:18,152) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 07:35:17,688) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 07:35:17,689) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 07:35:17,689) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 07:35:17,689) [INFO]: Use Function Parameters.
+(2025-05-28 07:35:17,689) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:35:18,150) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 07:35:39,759) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 07:35:39,760) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 07:35:39,760) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 07:35:39,760) [INFO]: Use Function Parameters.
+(2025-05-28 07:35:39,760) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:35:40,265) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 07:36:02,279) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 07:36:02,280) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 07:36:02,280) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 07:36:02,280) [INFO]: Use Function Parameters.
+(2025-05-28 07:36:02,280) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:36:02,747) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 07:36:32,938) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 07:37:01,627) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 07:37:30,225) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 07:37:58,799) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 07:38:27,294) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 07:38:55,712) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 07:39:35,930) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 07:40:04,611) [INFO]: Register evaluations
+(2025-05-28 07:40:04,611) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 07:40:04,611) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:40:04,660) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 07:40:04,660) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 07:40:05,584) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 07:40:05,584) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:40:05,627) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 07:42:22,838) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 07:42:22,839) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 07:42:22,839) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 07:42:22,839) [INFO]: Use Function Parameters.
+(2025-05-28 07:42:22,839) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:42:23,284) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 07:42:52,556) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 07:43:20,497) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 07:43:48,347) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 07:44:16,076) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 07:44:43,885) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 07:45:11,750) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 07:45:50,994) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 07:46:18,942) [INFO]: Register evaluations
+(2025-05-28 07:46:18,942) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 07:46:18,942) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:46:18,987) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 07:46:18,987) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 07:46:19,920) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 07:46:19,920) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:46:19,964) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 07:47:31,860) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 07:47:31,861) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 07:47:31,861) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 07:47:31,861) [INFO]: Use Function Parameters.
+(2025-05-28 07:47:31,861) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:47:32,319) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 07:47:51,083) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 07:48:08,476) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 07:48:25,876) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 07:48:43,244) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 07:49:00,624) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 07:49:17,992) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 07:49:42,576) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 07:49:59,967) [INFO]: Register evaluations
+(2025-05-28 07:49:59,967) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 07:49:59,967) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:50:00,017) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 07:50:00,018) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 07:50:00,940) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 07:50:00,940) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 07:50:00,987) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 08:18:20,296) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 08:18:20,297) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 08:18:20,297) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 08:18:20,298) [INFO]: Use Function Parameters.
+(2025-05-28 08:18:20,298) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 08:18:20,775) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 09:20:43,781) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 09:20:43,782) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 09:20:43,782) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 09:20:43,782) [INFO]: Use Function Parameters.
+(2025-05-28 09:20:43,782) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 09:20:44,222) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 09:21:07,138) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 09:21:28,859) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 09:21:50,289) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 09:22:11,846) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 09:22:18,800) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 09:22:18,801) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 09:22:18,801) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 09:22:18,801) [INFO]: Use Function Parameters.
+(2025-05-28 09:22:18,801) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 09:22:19,296) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 09:48:57,142) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 09:48:57,143) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 09:48:57,143) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 09:48:57,143) [INFO]: Use Function Parameters.
+(2025-05-28 09:48:57,143) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 09:48:57,570) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 09:49:30,987) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 09:50:03,245) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 09:50:35,242) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 09:51:07,115) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 09:51:39,378) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 09:52:11,945) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 09:54:27,200) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 09:54:27,201) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 09:54:27,201) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 09:54:27,201) [INFO]: Use Function Parameters.
+(2025-05-28 09:54:27,201) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 09:54:27,634) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 09:55:02,037) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 09:55:35,095) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 09:56:08,191) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 09:56:41,131) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 09:57:14,126) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 09:57:47,194) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 10:00:40,525) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 10:00:40,526) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 10:00:40,526) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 10:00:40,526) [INFO]: Use Function Parameters.
+(2025-05-28 10:00:40,526) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 10:00:40,970) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 10:01:14,682) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 10:01:47,242) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 10:02:18,989) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 10:02:51,702) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 10:03:24,551) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 10:03:57,205) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 10:04:49,150) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 10:04:49,151) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 10:04:49,151) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 10:04:49,151) [INFO]: Use Function Parameters.
+(2025-05-28 10:04:49,151) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 10:04:49,588) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 10:05:44,656) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 10:06:38,346) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 10:07:33,452) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 10:08:26,381) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 10:09:19,908) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 10:10:13,386) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 10:11:31,187) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 10:12:23,916) [INFO]: Register evaluations
+(2025-05-28 10:12:23,916) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 10:12:23,917) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 10:12:24,033) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 10:12:24,033) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 10:12:24,902) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 10:12:24,902) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 10:12:24,943) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 10:38:36,527) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 10:38:36,528) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 10:38:36,528) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 10:38:36,529) [INFO]: Use Function Parameters.
+(2025-05-28 10:38:36,529) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 10:38:36,998) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 10:38:58,003) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 10:39:17,684) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 10:39:37,347) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 10:39:56,976) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 10:40:16,608) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 10:40:36,249) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 10:41:04,004) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 10:41:23,665) [INFO]: Register evaluations
+(2025-05-28 10:41:23,665) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 10:41:23,665) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 10:41:23,709) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 10:41:23,710) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 10:41:24,633) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 10:41:24,633) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 10:41:24,678) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 10:47:57,081) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 10:47:57,082) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 10:47:57,082) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 10:47:57,082) [INFO]: Use Function Parameters.
+(2025-05-28 10:47:57,082) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 10:47:57,538) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 10:48:18,392) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 10:48:37,834) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 10:48:57,276) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 10:49:16,702) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 10:49:36,114) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 10:49:55,501) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 10:50:22,922) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 10:50:42,310) [INFO]: Register evaluations
+(2025-05-28 10:50:42,310) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 10:50:42,310) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 10:50:42,358) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 10:50:42,358) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 10:50:43,286) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 10:50:43,286) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 10:50:43,333) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
+(2025-05-28 11:12:27,209) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-05-28 11:12:27,210) [INFO]: Dataset Directory has been loaded.
+(2025-05-28 11:12:27,210) [INFO]: Run Experiments. Method[MTSExample], Schema[mts].
+(2025-05-28 11:12:27,210) [INFO]: Use Function Parameters.
+(2025-05-28 11:12:27,210) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 11:12:27,667) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-4 
+(2025-05-28 11:12:48,504) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-3 
+(2025-05-28 11:13:07,862) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-7 
+(2025-05-28 11:13:27,237) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-8 
+(2025-05-28 11:13:46,566) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-2 
+(2025-05-28 11:14:05,911) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-5 
+(2025-05-28 11:14:25,310) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-1 
+(2025-05-28 11:14:52,725) [INFO]:     [MTSExample] handling dataset machine-1 | curve machine-1-6 
+(2025-05-28 11:15:12,166) [INFO]: Register evaluations
+(2025-05-28 11:15:12,166) [INFO]: Perform evaluations. Method[MTSExample], Schema[mts].
+(2025-05-28 11:15:12,166) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 11:15:12,214) [INFO]:     [MTSExample] Eval dataset machine-1 <<<
+(2025-05-28 11:15:12,214) [INFO]:         [machine-1] Using default margins (0, 5)
+(2025-05-28 11:15:13,129) [INFO]: Plotting. Method[MTSExample], Schema[mts].
+(2025-05-28 11:15:13,129) [INFO]:     [Load Data (All)] DataSets: machine-1 
+(2025-05-28 11:15:13,176) [INFO]:     [MTSExample] Plot dataset machine-1 score only 
