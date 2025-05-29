@@ -5,6 +5,7 @@
 ## 项目结构
 
 ```
+```
 .trae/
 Results/                # 存储模型运行结果、评估数据和图表
 ├── Evals/              # 评估结果
@@ -13,12 +14,11 @@ Results/                # 存储模型运行结果、评估数据和图表
 datasets/               # 存放时间序列数据集
 ├── MTS/                # 多元时间序列数据集
 └── SMD_structure.txt   # 数据集结构说明
-lightTS.py              # LightTS 模型的核心实现
-old_runMTS.py           # 旧的运行脚本（备份）
 runMTS.py               # 主要的运行脚本，包含模型训练和评估逻辑
 requirements.txt        # 项目依赖库列表
 environment.txt         # 运行环境信息，例如 Python 版本
 README.md               # 项目说明文件
+```
 ```
 
 ## 安装
