@@ -181,6 +181,16 @@ if __name__ == "__main__":
             self.epochs = params.get('epochs', 10)
             self.chunk_sizes = params.get('chunk_sizes', [32, 64, 128])
             
+            # 设置随机种子（如果提供）
+            if 'seed' in params:
+                seed = params.get('seed')
+                print(f"设置随机种子: {seed}")
+                torch.manual_seed(seed)
+                torch.cuda.manual_seed_all(seed)
+                np.random.seed(seed)
+                torch.backends.cudnn.deterministic = True
+                torch.backends.cudnn.benchmark = False
+            
         def train_valid_phase(self, tsData):
             print(f"Training data shape: {tsData.train.shape}")
             
@@ -296,11 +306,12 @@ if __name__ == "__main__":
         method=method,
         training_schema=training_schema,
         hparams={
-            "lr": 0.0005,
-            "epochs": 120,
-            "chunk_sizes": [64, 128, 256]  # Train multiple models with different chunk_sizes
+            "lr": 0.001,
+            "epochs": 100,
+            "chunk_sizes": [64, 128, 256],  # Train multiple models with different chunk_sizes
+            "seed": 22  # 为所有三个数据集设置相同的随机种子
         },
-        preprocess="z-score", 
+        preprocess="z-score"
     )
        
     """============= [EVALUATION SETTINGS] ============="""

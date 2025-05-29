@@ -1,82 +1,82 @@
 {
     "machine-1-4": {
         "best f1 under pa": {
-            "f1": 0.6344226579520693,
-            "precision": 0.48052805280528055,
+            "f1": 0.6369203849518805,
+            "precision": 0.48339973439575035,
             "recall": 0.9333333333333333,
-            "threshold": 62.10142517089844
+            "threshold": 63.23286819458008
         },
         "event-based f1 under pa with mode log": {
             "f1": 0.2325581395348835,
             "precision": 0.9999999999999998,
             "recall": 0.13157894736842105,
-            "threshold": 6231.87841796875
+            "threshold": 6232.017578125
         },
         "event-based f1 under pa with mode squeeze": {
             "f1": 0.28571428571428537,
             "precision": 0.9999999999999996,
             "recall": 0.16666666666666663,
-            "threshold": 6231.87841796875
+            "threshold": 6232.017578125
         }
     },
     "machine-1-3": {
         "best f1 under pa": {
-            "f1": 0.8963855421686742,
-            "precision": 0.9501915708812261,
-            "recall": 0.8483466362599772,
-            "threshold": 123.86004638671875
+            "f1": 0.9338609383832668,
+            "precision": 0.9260089686098655,
+            "recall": 0.9418472063854048,
+            "threshold": 55.568504333496094
         },
         "event-based f1 under pa with mode log": {
-            "f1": 0.5148514851485144,
-            "precision": 0.4,
-            "recall": 0.7222222222222222,
-            "threshold": 123.86004638671875
+            "f1": 0.5287356321839075,
+            "precision": 0.45098039215686275,
+            "recall": 0.6388888888888888,
+            "threshold": 157.7174530029297
         },
         "event-based f1 under pa with mode squeeze": {
-            "f1": 0.28571428571428514,
-            "precision": 0.33333333333333326,
-            "recall": 0.24999999999999997,
-            "threshold": 340.4011535644531
+            "f1": 0.30769230769230727,
+            "precision": 0.2222222222222222,
+            "recall": 0.49999999999999994,
+            "threshold": 180.21588134765625
         }
     },
     "machine-1-2": {
         "best f1 under pa": {
-            "f1": 0.8933217692974842,
-            "precision": 0.9180035650623886,
+            "f1": 0.8940972222222217,
+            "precision": 0.9196428571428571,
             "recall": 0.8699324324324325,
-            "threshold": 25.142881393432617
+            "threshold": 24.90516471862793
         },
         "event-based f1 under pa with mode log": {
-            "f1": 0.7213114754098355,
-            "precision": 0.7096774193548387,
+            "f1": 0.7096774193548381,
+            "precision": 0.6875,
             "recall": 0.7333333333333333,
-            "threshold": 62.728755950927734
+            "threshold": 61.70695495605469
         },
         "event-based f1 under pa with mode squeeze": {
-            "f1": 0.5384615384615379,
-            "precision": 0.4375,
-            "recall": 0.6999999999999998,
-            "threshold": 62.728755950927734
+            "f1": 0.521739130434782,
+            "precision": 0.46153846153846145,
+            "recall": 0.5999999999999999,
+            "threshold": 71.49102020263672
         }
     },
     "machine-1-5": {
         "best f1 under pa": {
-            "f1": 0.7759197324414709,
-            "precision": 0.7073170731707317,
-            "recall": 0.8592592592592593,
-            "threshold": 269.7820739746094
+            "f1": 0.7575757575757571,
+            "precision": 0.6410256410256411,
+            "recall": 0.9259259259259259,
+            "threshold": 167.07460021972656
         },
         "event-based f1 under pa with mode log": {
             "f1": 0.7199999999999994,
             "precision": 0.9999999999999998,
             "recall": 0.5625,
-            "threshold": 27301.373046875
+            "threshold": 27438.908203125
         },
         "event-based f1 under pa with mode squeeze": {
             "f1": 0.7272727272727267,
             "precision": 0.9999999999999998,
             "recall": 0.5714285714285714,
-            "threshold": 27301.373046875
+            "threshold": 27438.908203125
         }
     },
     "machine-1-6": {
@@ -84,79 +84,79 @@
             "f1": 0.9626945786366071,
             "precision": 0.9980523094045631,
             "recall": 0.9297563504406429,
-            "threshold": 773.0660400390625
+            "threshold": 778.3012084960938
         },
         "event-based f1 under pa with mode log": {
             "f1": 0.35164835164835123,
             "precision": 0.6956521739130435,
             "recall": 0.23529411764705882,
-            "threshold": 773.0660400390625
+            "threshold": 778.3012084960938
         },
         "event-based f1 under pa with mode squeeze": {
             "f1": 0.19512195121951179,
             "precision": 0.3636363636363636,
             "recall": 0.13333333333333333,
-            "threshold": 773.0660400390625
+            "threshold": 778.3012084960938
         }
     },
     "machine-1-1": {
         "best f1 under pa": {
-            "f1": 0.9914092487662213,
-            "precision": 0.9908659115820241,
+            "f1": 0.9861818181818176,
+            "precision": 0.9804772234273319,
             "recall": 0.991953182150695,
-            "threshold": 424539.40625
+            "threshold": 162470.8125
         },
         "event-based f1 under pa with mode log": {
-            "f1": 0.763636363636363,
-            "precision": 0.9130434782608695,
-            "recall": 0.65625,
-            "threshold": 569056.125
+            "f1": 0.48780487804878,
+            "precision": 0.4,
+            "recall": 0.625,
+            "threshold": 180148.8125
         },
         "event-based f1 under pa with mode squeeze": {
-            "f1": 0.5714285714285707,
-            "precision": 0.6666666666666665,
-            "recall": 0.4999999999999999,
-            "threshold": 569056.125
+            "f1": 0.3333333333333328,
+            "precision": 0.4999999999999999,
+            "recall": 0.24999999999999994,
+            "threshold": 271881.78125
         }
     },
     "machine-1-8": {
         "best f1 under pa": {
-            "f1": 0.919540229885057,
-            "precision": 0.9620253164556962,
+            "f1": 0.9151113786875371,
+            "precision": 0.9523809523809523,
             "recall": 0.880648899188876,
-            "threshold": 32.48555374145508
+            "threshold": 29.0734920501709
         },
         "event-based f1 under pa with mode log": {
-            "f1": 0.5370370370370365,
-            "precision": 0.4915254237288136,
-            "recall": 0.5918367346938775,
-            "threshold": 32.48555374145508
+            "f1": 0.5192307692307686,
+            "precision": 0.4909090909090909,
+            "recall": 0.5510204081632653,
+            "threshold": 32.7366828918457
         },
         "event-based f1 under pa with mode squeeze": {
-            "f1": 0.3846153846153842,
-            "precision": 0.8333333333333333,
+            "f1": 0.3571428571428567,
+            "precision": 0.6249999999999999,
             "recall": 0.25,
-            "threshold": 56.367733001708984
+            "threshold": 54.06452941894531
         }
     },
     "machine-1-7": {
         "best f1 under pa": {
-            "f1": 0.9813562794509316,
-            "precision": 0.9904880066170388,
-            "recall": 0.9723913926106375,
-            "threshold": 44.923187255859375
+            "f1": 0.9864587607714398,
+            "precision": 0.997096640398175,
+            "recall": 0.976045473000406,
+            "threshold": 38.77885437011719
         },
         "event-based f1 under pa with mode log": {
-            "f1": 0.6744186046511622,
-            "precision": 0.6444444444444445,
-            "recall": 0.7073170731707317,
-            "threshold": 50.36170959472656
+            "f1": 0.8292682926829262,
+            "precision": 0.8292682926829268,
+            "recall": 0.8292682926829268,
+            "threshold": 38.77885437011719
         },
         "event-based f1 under pa with mode squeeze": {
-            "f1": 0.5384615384615379,
-            "precision": 0.5384615384615384,
-            "recall": 0.5384615384615384,
-            "threshold": 70.31698608398438
+            "f1": 0.6666666666666661,
+            "precision": 0.6428571428571428,
+            "recall": 0.6923076923076922,
+            "threshold": 44.53238296508789
         }
     }
 }
