@@ -18,7 +18,7 @@ requirements.txt        # 项目依赖库列表
 environment.txt         # 运行环境信息，例如 Python 版本
 README.md               # 项目说明文件
 ```
-```
+
 
 ## 安装
 
@@ -26,7 +26,7 @@ README.md               # 项目说明文件
 
 1. **克隆项目仓库**：
    ```bash
-   git clone <您的项目仓库地址>
+   git clone https://github.com/your-username/MTS.git
    cd MTS
    ```
 
