@@ -1,0 +1,8 @@
+numpy>=1.26.4
+torch>=2.6.0+cu118
+torchvision>=0.21.0+cu118
+EasyTSAD>=0.3.0.2
+matplotlib>=3.10.3
+scipy>=1.15.3
+pandas>=2.2.3
+scikit-learn>=1.6.1
